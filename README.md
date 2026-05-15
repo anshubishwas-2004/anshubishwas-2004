@@ -1,10 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Anshu%20Bishwas" />
-<h1 align="center">Hi 👋, I'm Anshu Bishwas</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Hi%20👋,%20I'm%20Anshu%20Bishwas" />
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | DSA Learner</h3>
 
 <p align="center">
   <a href="https://github.com/anshubishwas-2004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+Developer;Learning+Full+Stack+Development;Building+Projects+and+Growing+Daily" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Development+&+DSA;Building+Projects+and+Growing+Daily" />
   </a>
 </p>
 
