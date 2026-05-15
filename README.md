@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anshu Bishwas</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | DSA Learner</h3>
 
-<!--
-**anshubishwas-2004/anshubishwas-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Interested in **Web Development & Java**
+- 🎯 Goal: Crack placements in 2026
+- ⚡ Fun fact: I enjoy solving coding problems daily
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshubishwas-2004&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshubishwas-2004&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Working On
+
+- DSA in Java
+- Linked Lists
+- Web Development
+- Placement Preparation
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/anshubishwas-2004
+- LinkedIn: Add your LinkedIn here
