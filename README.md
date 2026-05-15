@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/anshubishwas-2004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Development+&+DSA;Building+Projects+and+Growing+Daily" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Development;Building+Projects+and+Growing+Daily" />
   </a>
 </p>
 
